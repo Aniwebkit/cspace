@@ -4,7 +4,7 @@
 **CSpace** allows developers and progrmammer keep track clips. <<Further Description at a **Later** Stage >>
 
 #### Screenshot
-#![Screenshot software](hhttps://avatars3.githubusercontent.com/u/19282223?v=3&s=84 "screenshot software").
+![Screenshot software](hhttps://avatars3.githubusercontent.com/u/19282223?v=3&s=84 "screenshot software").
 **No screenshots Yet!**
 
 ## Download
