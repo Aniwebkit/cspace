@@ -15,3 +15,4 @@ clipboard
 clipboard.off('text-changed');
  
 clipboard.stopWatching();
+#me
