@@ -1,4 +1,5 @@
-CSpace Clipping Software
+
+#CSpace Clipping Software
 ======
 **CSpace** allows developers and progrmammer keep track clips. <<Further Description at a **Later** Stage >>
 
@@ -7,12 +8,14 @@ CSpace Clipping Software
 **No screenshots Yet!**
 
 ## Download
-* [Version X.Y](https://github.com/Aniwebkit/cspace/archive/master.zip)
+* [Version 1.0](https://github.com/Aniwebkit/cspace/archive/master.zip)
 * Other Versions
 
 ## Usage
-```$ git clone https://github.com/Aniwebkit/cspace.git
-...```
+```
+$ git clone https://github.com/Aniwebkit/cspace.git
+
+```
 
 ## Contributors
 
