@@ -1,5 +1,5 @@
-
-#CSpace Clipping Software
+ 
+CSpace Clipping Software
 ======
 **CSpace** allows developers and progrmammer keep track clips. <<Further Description at a **Later** Stage >>
 
